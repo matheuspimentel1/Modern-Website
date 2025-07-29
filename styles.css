@@ -24,7 +24,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-font-size: 1100px;
+    max-width: 1100px;
     margin: 0 auto;
     padding: 0 20px;
 }
