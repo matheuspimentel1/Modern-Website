@@ -86,7 +86,7 @@ nav {
 .about p {
     font-size: 1.1rem;
 }
-ul.services-list { 
+.services-list li { 
     list-style-type: none;
 }
 .content, .contact {
