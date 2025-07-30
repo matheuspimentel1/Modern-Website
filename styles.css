@@ -95,7 +95,7 @@ nav {
     font-size: 2rem;
     margin-bottom: 20px;
 }
-.services-list {
+ul {
     list-style: none;
 }
 .contact form {
