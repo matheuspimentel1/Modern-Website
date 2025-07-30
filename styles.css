@@ -86,9 +86,6 @@ nav {
 .about p {
     font-size: 1.1rem;
 }
-.services-list li { 
-    list-style-type: none;
-}
 .content, .contact {
     padding: 40px 20px;
     text-align: center;
